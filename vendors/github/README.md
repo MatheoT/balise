@@ -1,2 +1,1 @@
 # balise
-Utilisation des balises
